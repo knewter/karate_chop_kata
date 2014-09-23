@@ -1,0 +1,2 @@
+defmodule KarateChopKata do
+end
